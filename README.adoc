@@ -3,10 +3,10 @@
 [cols="1"]
 |===
 a|
-image::https://github-readme-stats.vercel.app/api?username=rdmueller&show_icons=true[]
+image::https://github-readme-stats.vercel.app/api?username=raifdmueller&show_icons=true[]
 
 a|
-image::https://github-readme-streak-stats.herokuapp.com/?user=rdmueller[]
+image::https://github-readme-streak-stats.herokuapp.com/?user=raifdmueller[]
 
 |===
 
